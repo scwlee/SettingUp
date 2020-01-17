@@ -7,17 +7,25 @@ https://code.visualstudio.com
 https://brew.sh
 
 https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-macos?view=azure-cli-latest
+brew update && brew install azure-cli
 
 https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-kubectl-on-macros
+brew install kubectl 
 
 https://github.com/ahmetb/kubectx/blob/master/README.md
+brew install kubectx
 
 https://github.com/junegunn/fzf/blob/master/README.md
+brew install fzf
 
 https://github.com/derailed/k9s/blob/master/README.md
+brew install derailed/k9s/k9s
 
 https://github.com/wercker/stern/blob/master/README.md
+brew install stern
 
 https://github.com/helm/helm/blob/master/README.md
+brew install helm
 
 https://www.youdriveai.com/how-to-install-chrome-on-macos-using-homebrew
+brew cask install google-chrome
